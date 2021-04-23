@@ -1,6 +1,6 @@
 # CMPUT501-GradProject
 
-This repository contains the artifacts for the course project for CMPUT501
+This repository contains the artifacts for the course project of CMPUT501
 ### Graduate Student
  - [Maisha Binte Moin]()
 ### Dependencies
