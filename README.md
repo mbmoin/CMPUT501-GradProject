@@ -29,7 +29,7 @@ This repository contains the artifacts for the course project for CMPUT501
 │   │   ├── jade4j@lr.zip
 │       ├── jade4j@nb.zip
 │       ├── jade4j@rf.zip
-├── tokenizer.py
+├── requirements.txt
 
 ```
 ### Instructions
