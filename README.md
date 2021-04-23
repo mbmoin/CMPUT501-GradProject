@@ -1,12 +1,12 @@
 # CMPUT501-GradProject
-Software Quality project
+
 This repository contains the artifacts for the course project for CMPUT501
 ### Graduate Student
  - [Maisha Binte Moin]()
 ### Dependencies
 
  ````shell
- # Quick Installation steps
+ # All required libraries can be installed using the following command
  pip3 install -r requirements.txt
  ````
 
@@ -17,7 +17,7 @@ This repository contains the artifacts for the course project for CMPUT501
 │   ├── For_proj1_(fb_buck).ipynb
 │   └── For_proj2_(neuland_jade4j).ipynb                                                          
 ├── Data used                                                                          
-│   ├── facebook@buck.zip
+│   ├── facebook@buck.zip 
 │   └── neuland@jade4j.zip                                                           
 ├── Results                                                                    
 │   ├── buck
