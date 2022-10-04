@@ -2,7 +2,7 @@
 
 This repository contains the artifacts for the course project of CMPUT501
 ### Graduate Student
- - [Maisha Binte Moin]()
+ - [Maisha Binte Moin](https://www.linkedin.com/in/mbmoin/)
 ### Dependencies
 
  ````shell
